@@ -1,3 +1,3 @@
-# Android BioMetrics
+# Android Biometrics
 
 - [ ] Upload to Maven Repository.
